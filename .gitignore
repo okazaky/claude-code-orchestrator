@@ -1,0 +1,9 @@
+node_modules/
+dist/
+data/
+logs/
+*.tmp.*
+*.log
+coverage/
+QUALITY_REPORT.md
+quality_gate_logs/
